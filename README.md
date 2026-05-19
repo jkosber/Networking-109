@@ -5,7 +5,7 @@ My Fall 2025 coursework at Ivy Tech Kokomo. Grade: A (Dean's List). NETI 109 is 
 1. **Networking Basics** — 17 modules, Aug 27 – Sep 21. Completion certificate earned.
 2. **Introduction to Networks (ITN, CCNA v7 Module 1)** — 17 modules, Sep 22 – Dec 10. Completion certificate earned.
 
-The semester mixed Packet Tracer simulations with real Cisco routers and switches in the Ivy Tech Kokomo networking lab, weekly checkpoint exams, two final exams, and a final practical on lab gear. This repo holds the ITN module submissions, in-class Packet Tracer artifacts, weekly class notes, and both completion certificates.
+The semester mixed Packet Tracer simulations with real Cisco routers and switches in the Ivy Tech Kokomo networking lab, weekly checkpoint exams, two final exams, and a final practical on lab gear. This repo holds the ITN module submissions, in-class Packet Tracer files, weekly class notes, and both completion certificates.
 
 ## Tools
 
@@ -49,8 +49,6 @@ NetworkingNotes/                       Seven class-notes files (Aug 27 – Oct 1
 CCNA-Introduction-to-Networks-certificate-JKosberg.pdf
 Networking-Basics-certificate-JKosberg.pdf
 ```
-
-> Heads up: modules 05 (Number Systems), 06 (Data Link Layer), and 08 (Network Layer) had upload assignments per the official schedule but aren't currently archived here — only the modules I actually uploaded artifacts for are in the repo. The Networking Basics half of the course (the first six weeks) is represented through the completion certificate and class notes rather than per-module folders; uploads were only required on the ITN side.
 
 ## Module walkthrough (ITN track)
 
