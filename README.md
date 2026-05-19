@@ -30,23 +30,22 @@ The semester mixed Packet Tracer simulations with real Cisco routers and switche
 ## Repository layout
 
 ```
-Networking109/
-  Module-01-NetworkingToday/             Network value, components; first Packet Tracer activity
-  Module-02-BasicSwitchAndEndDevice/     Initial switch / end-device config in Packet Tracer
-  Module-03-ProtocolsandModels/          Networking-standards research; first Wireshark capture
-  Module-04-PhysicalLayer/               Cabling, media, signaling labs
-  Module-07-EthernetSwitching/           Frame structure and switching behavior
-  Module-09-AddressResolution/           ARP labs + quiz-score capture
-  Module-10-BasicRouterConfiguration/    Cisco IOS router config + in-class equipment build (10.4.3)
-  Module-11-IPv4Addressing/              IPv4 subnetting and addressing
-  Module-12-IPv6Addressing/              IPv6 addressing, identification, configuration
-  Module-13-ICMP/                        ICMP behavior labs
-  Module-14-TransportLayer/              TCP / UDP transport behavior
-  Module-15-ApplicationLayer/            DNS resolution observation
-  Module-16-NetworkSecurityFundamentals/ Threat-research lab + Packet Tracer security scenarios
-  Module-17-BuildASmallNetwork/          Small-network design, build, verify (incl. in-class equipment lab)
-  NetworkingActivities/                  Standalone Packet Tracer activities and module-quiz files
-  NetworkingNotes/                       Seven class-notes files (Aug 27 – Oct 15, 2025)
+Module-01-NetworkingToday/             Network value, components; first Packet Tracer activity
+Module-02-BasicSwitchAndEndDevice/     Initial switch / end-device config in Packet Tracer
+Module-03-ProtocolsandModels/          Networking-standards research; first Wireshark capture
+Module-04-PhysicalLayer/               Cabling, media, signaling labs
+Module-07-EthernetSwitching/           Frame structure and switching behavior
+Module-09-AddressResolution/           ARP labs + quiz-score capture
+Module-10-BasicRouterConfiguration/    Cisco IOS router config + in-class equipment build (10.4.3)
+Module-11-IPv4Addressing/              IPv4 subnetting and addressing
+Module-12-IPv6Addressing/              IPv6 addressing, identification, configuration
+Module-13-ICMP/                        ICMP behavior labs
+Module-14-TransportLayer/              TCP / UDP transport behavior
+Module-15-ApplicationLayer/            DNS resolution observation
+Module-16-NetworkSecurityFundamentals/ Threat-research lab + Packet Tracer security scenarios
+Module-17-BuildASmallNetwork/          Small-network design, build, verify (incl. in-class equipment lab)
+NetworkingActivities/                  Standalone Packet Tracer activities and module-quiz files
+NetworkingNotes/                       Seven class-notes files (Aug 27 – Oct 15, 2025)
 CCNA-Introduction-to-Networks-certificate-JKosberg.pdf
 Networking-Basics-certificate-JKosberg.pdf
 ```
