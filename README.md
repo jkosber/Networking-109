@@ -72,7 +72,7 @@ Networking-Basics-certificate-JKosberg.pdf
 
 ## Outcome
 
-Finished Fall 2025 with an A (Dean's List). Picked up both Cisco Networking Academy completion certificates. Passed both the ITN Final Skills Exam on equipment and the PTSA. Next up: the rest of the Ivy Tech CCNAv7 sequence (NETI 209, NETI 309) and the full CCNA.
+Passed both the ITN Final Skills Exam on equipment and the PTSA. Next up: the rest of the Ivy Tech CCNAv7 sequence (NETI 209, NETI 309) and the full CCNA.
 
 ## Related repos
 
