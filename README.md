@@ -1,42 +1,11 @@
-# Networking-109 — Networking I (NETI 109)
+# Networking-109 — NETI 109 Networking I (Cisco CCNA Part 1)
 
-My Fall 2025 coursework for **Ivy Tech NETI 109 — Networking I** at Ivy Tech Kokomo. NETI 109 is the first of three networking courses in the Ivy Tech CCNAv7 sequence, and it's actually two Cisco Networking Academy courses stacked back-to-back:
+My Fall 2025 coursework at Ivy Tech Kokomo. Grade: A (Dean's List). NETI 109 is the first of three courses in the Ivy Tech CCNAv7 sequence, and it's actually two Cisco Networking Academy courses stacked back-to-back:
 
 1. **Networking Basics** — 17 modules, Aug 27 – Sep 21. Completion certificate earned.
 2. **Introduction to Networks (ITN, CCNA v7 Module 1)** — 17 modules, Sep 22 – Dec 10. Completion certificate earned.
 
-The semester was a mix of Packet Tracer simulations and lab work on real Cisco routers and switches in the Ivy Tech Kokomo networking lab, plus weekly checkpoint exams, two final exams, and a final practical on the lab gear. This repo holds the ITN module submissions, in-class Packet Tracer artifacts, weekly class notes, and both completion certificates.
-
-## Course information
-
-| Field            | Detail                                                                |
-| :--------------- | :-------------------------------------------------------------------- |
-| Course number    | NETI 109                                                              |
-| Course title     | Networking I                                                          |
-| School / program | Information Technology — Network Infrastructure                       |
-| Credit hours     | 3                                                                     |
-| Contact hours    | Lecture: 1.5                                                          |
-| Prerequisites    | College-level English readiness; TECH / QUANT / STEM Math Path Ready  |
-| Term             | Fall 2025 (Aug 27 – Dec 19, 2025)                                     |
-| Final grade      | A (Dean's List)                                                       |
-
-## Catalog description
-
-> Networking I is the first of three courses in the Cisco CCNAv7 curriculum. This course includes activities using Packet Tracer, hands-on lab work, and a wide array of assessment types and tools. The content covers the architecture, structure, functions and components of the Internet and other computer networks. Students achieve a basic understanding of how networks operate and how to build simple local area networks (LAN), perform basic configurations for routers and switches, and implement Internet Protocol (IP).
-
-## What you're supposed to be able to do by the end
-
-1. Configure switches and end devices for local and remote network access.
-2. Explain how physical and data link layer protocols support Ethernet in a switched network.
-3. Configure routers for end-to-end connectivity between remote devices.
-4. Build IPv4 and IPv6 addressing schemes and verify connectivity.
-5. Explain how the upper layers of the OSI model support network applications.
-6. Configure a small network with security best practices.
-7. Troubleshoot connectivity in a small network.
-
-## Topical content
-
-Cisco IOS · Protocols · Integrity and Availability · Routing · IP Addressing · Security · LANs · TCP/IP Model · Network Operating Systems · Standards and the OSI Model · Network Hardware · Transmission Basics and Networking Media · Troubleshooting.
+The semester mixed Packet Tracer simulations with real Cisco routers and switches in the Ivy Tech Kokomo networking lab, weekly checkpoint exams, two final exams, and a final practical on lab gear. This repo holds the ITN module submissions, in-class Packet Tracer artifacts, weekly class notes, and both completion certificates.
 
 ## Tools
 
