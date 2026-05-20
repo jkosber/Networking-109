@@ -10,7 +10,7 @@ The semester mixed Packet Tracer simulations with real Cisco routers and switche
 ## Tools
 
 - **Cisco IOS** — actual Cisco router and switch gear in the Ivy Tech Kokomo lab.
-- **Cisco Packet Tracer** — every `.pka`, `.pkt`, and `.pksz` file in the repo is a Packet Tracer artifact.
+- **Cisco Packet Tracer** — every `.pka`, `.pkt`, and `.pksz` file in the repo is from Packet Tracer.
 - **Wireshark** — first live capture happens in Module 3.
 - Standard utilities — `ping`, `traceroute`, `ipconfig` / `ifconfig`.
 
