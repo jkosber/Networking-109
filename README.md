@@ -19,14 +19,6 @@ The semester mixed Packet Tracer simulations with real Cisco routers and switche
 - Cisco Networking Academy — **Networking Basics** ([PDF](Networking-Basics-certificate-JKosberg.pdf))
 - Cisco Networking Academy — **Introduction to Networks** ([PDF](CCNA-Introduction-to-Networks-certificate-JKosberg.pdf))
 
-## Big assessments
-
-- Module-group checkpoint exams (Network Access; Internet Protocol; Communication Between Networks; Protocols for Specific Tasks; Basic Network Connectivity; Ethernet Concepts; Communicating Between Networks; IP Addressing; Network Application Communications; Building and Securing a Small Network).
-- Networking Basics Final Exam — Sep 21.
-- CCNA Introduction to Networks Course Final Exam — Dec 10.
-- ITN Final Skills Exam (Equipment) — Dec 17, on real Cisco gear.
-- ITN Practice PT Skills Assessment (PTSA) — Dec 19.
-
 ## Repository layout
 
 ```
@@ -52,20 +44,20 @@ Networking-Basics-certificate-JKosberg.pdf
 
 ## Module walkthrough (ITN track)
 
-- **Module 1 — Networking Today.** Why networks matter, components, reliability. First Packet Tracer activity (logical vs physical view), module quiz (`1.5.5`), and a written lab (`1.9.3`).
-- **Module 2 — Basic Switch and End-Device Configuration.** First switch CLI work and end-device labs (`2.3.7`, `2.5.5`, `2.7.6`, `2.9.1`).
-- **Module 3 — Protocols and Models.** Networking-standards research (`3.4.4`) and the first Wireshark capture lab (`3.7.10`).
-- **Module 4 — Physical Layer.** Cabling and media labs (`4.6.5`, `4.7.1`, `4.7.2`).
-- **Module 7 — Ethernet Switching.** Frame structure and switching-behavior labs (`7.1.6`, `7.2.7`, `7.3.7`).
-- **Module 9 — Address Resolution.** ARP labs (`9.1.3`, `9.2.9`, `9.3.4`) and a quiz-score screenshot.
-- **Module 10 — Basic Router Configuration.** Router IOS config labs (`10.1.4`, `10.3.4`, `10.3.5`) plus the in-class equipment lab `10.4.3 — Build a Switch and Router Network` (done as both Packet Tracer and on real gear).
-- **Module 11 — IPv4 Addressing.** Subnetting and addressing labs (`11.5.5`, `11.6.6`, `11.7.5`, `11.9.3`, `11.10.1`).
-- **Module 12 — IPv6 Addressing.** Address identification and configuration labs (`12.4.5`, `12.6.6`, `12.7.4`, `12.9.1`).
-- **Module 13 — ICMP.** Echo / unreachable / reachability behavior labs (`13.2.6`, `13.3.1`).
-- **Module 14 — Transport Layer.** TCP vs UDP behavior lab (`14.8.1`).
-- **Module 15 — Application Layer.** DNS resolution observation lab (`15.4.8`).
-- **Module 16 — Network Security Fundamentals.** Threat-research lab (`16.2.6`) plus Packet Tracer security scenarios (`16.4.6`, `16.5.1`); the in-class `16.5.2 — Secure Network Devices` equipment lab was also part of this module.
-- **Module 17 — Build a Small Network.** Capstone — `17.5.9`, `17.7.6` plus the in-class labs `17.8.1 — Design and Build a Small Business Network` and `17.8.3 — Troubleshooting Challenge` (`.pkt` and `.pka` files preserved).
+- **Module 1 — Networking Today.** Why networks matter, components, reliability. First Packet Tracer activity (logical vs physical view), module quiz, and a written lab.
+- **Module 2 — Basic Switch and End-Device Configuration.** First switch CLI work and end-device labs.
+- **Module 3 — Protocols and Models.** Networking-standards research and the first Wireshark capture lab.
+- **Module 4 — Physical Layer.** Cabling and media labs.
+- **Module 7 — Ethernet Switching.** Frame structure and switching-behavior labs.
+- **Module 9 — Address Resolution.** ARP labs and a quiz-score screenshot.
+- **Module 10 — Basic Router Configuration.** Router IOS config labs plus the in-class equipment lab `Build a Switch and Router Network` (done as both Packet Tracer and on real gear).
+- **Module 11 — IPv4 Addressing.** Subnetting and addressing labs.
+- **Module 12 — IPv6 Addressing.** Address identification and configuration labs.
+- **Module 13 — ICMP.** Echo / unreachable / reachability behavior labs.
+- **Module 14 — Transport Layer.** TCP vs UDP behavior lab.
+- **Module 15 — Application Layer.** DNS resolution observation lab.
+- **Module 16 — Network Security Fundamentals.** Threat-research lab plus Packet Tracer security scenarios; the in-class `Secure Network Devices` equipment lab was also part of this module.
+- **Module 17 — Build a Small Network.** Capstone plus the in-class labs `Design and Build a Small Business Network` and `Troubleshooting Challenge` (`.pkt` and `.pka` files preserved).
 
 ## Outcome
 
